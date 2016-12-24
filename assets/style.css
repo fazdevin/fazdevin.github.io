@@ -165,3 +165,44 @@ h4{
 font-family:"Josefin Sans";
 }
 
+
+#fontchange{
+	
+	font-family:"Josefin Sans";
+}
+
+
+#navfont{
+	font-weight:400;
+    font-variant:small-caps;
+	font-size:20px;
+}
+
+#quotefont,#process{
+	font-family:"Josefin Sans";
+	font-weight:400;
+	color:#126dad;
+	font-size:42px;
+}
+#abouttitle{
+	
+	
+	color:#126dad;
+
+	
+}
+#clients,#contactus{
+	
+	font-family:"Josefin Sans";
+	font-weight:400;
+	color:#126dad;
+	font-size:30px;
+}
+
+
+
+#test1,#test2,#test3{
+	font-size:18px;
+	
+}
+
